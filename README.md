@@ -23,3 +23,4 @@ The project uses a CSV (Comma Separated Values) file as the input data source. C
 After reading the data, the script performs basic analysis by calculating the average of the numerical column. This analysis step demonstrates how raw data can be transformed into meaningful information. Instead of manually calculating values, the program automatically processes the data, reducing human errors and saving time. Such automation is especially useful when working with large datasets.
 
 OUTPUT:
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/e06e83bc-2bf0-4895-9b22-232716702f47" />
